@@ -1,11 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jhon Miro Capili</h1>
-<h3 align="center">A passionate computer science student</h3>
-
-- 🔭 I’m currently working on [Coffee Shop Inventory](https://github.com/jhonmirobcapili/Calbeans-Coffee-Shop-Inventory)
-
-- 🌱 I’m currently learning **to build a coffee shop inventory app in Android Studio, blending programming skills with real-world application.**
-
-- 📫 How to reach me **tcu.jhonmirocapili@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
